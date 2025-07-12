@@ -24,5 +24,5 @@ A token-based skill exchange platform inspired by the underworld of John Wick.
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/rowbox/skill-swap-x.git 
+git clone (https://github.com/NainaMishraa/teamRoblox-odoo2025).git 
 cd skill-swap-x
